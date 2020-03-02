@@ -2,7 +2,7 @@
 layout: post
 title:  "4 tips on how to make good team decisions"
 date:   2020-01-14 14:47:28 +0100
-categories: jekyll update
+categories: 
 ---
 
 Did you ever experience lengthy discussions about a problem during a meeting and you never get to start working on it? Or a decision that was made is repeatedly questioned by team members?

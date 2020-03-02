@@ -2,7 +2,7 @@
 layout: post
 title:  "Mob Programming - a field report"
 date:   2020-01-15 14:47:28 +0100
-categories: jekyll update
+categories: 
 ---
 
 ![](https://media-exp1.licdn.com/dms/image/C4D12AQFXBKCnytYwUw/article-cover_image-shrink_720_1280/0?e=1588204800&v=beta&t=zOaeBRnzulfcHTzrTp_z1CvJZKlk-2eEn6fpYqfZnHU)
