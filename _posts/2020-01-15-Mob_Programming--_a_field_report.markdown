@@ -37,4 +37,4 @@ Other than that we worked with the suggestions from Maaret Pyhäjärvi's book 'M
 
 The learnings 2, 3 and 5 where gathered through a quick feedback at the end of the second session. The others through the retrospectives and my observations as facilitator.
 
-![Feedback from mob programming sessions](img/mob_programming_feedback.png)
+![Feedback from mob programming sessions](../img/mob_programming_feedback.png)
