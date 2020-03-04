@@ -5,7 +5,7 @@ date:   2020-03-02 08:45:00 +0100
 categories: 
 ---
 
-In [the previous part](2020-02-28-calliope_workshop_part_I.markdown) I wrote about how I came to hold programming 
+In [the previous part](/2020/02/28/calliope_workshop_part_I.html) I wrote about how I came to hold programming 
 workshops for schoolkids and explained about preparations before a workshop.
 
 In this and the following part I will explain what we did during the workshop.
