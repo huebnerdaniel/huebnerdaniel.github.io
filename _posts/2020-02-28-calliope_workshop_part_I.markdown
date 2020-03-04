@@ -72,4 +72,5 @@ We wanted to show that all that stuff on the computers or inside those smartphon
 "just there to consume". Instead, with not too much effort, everybody is able to use that hardware as a tool
 to use like a knife, pencil, guitar, hammer, ball, ... Take it, have fun and create something with it to use.
 
-This concludes the first part on this series. In the next part you will find out how we started into the workshop.
+This concludes the first part on this series. In [the next part](2020-03-02-calliope_workshop_part_II.markdown) 
+you will find out how we started into the workshop.
