@@ -84,3 +84,5 @@ the fact that only one person held on to the controls all the time.
 
 I have no education in teaching children at all. Maybe I am mistaken by my approach or there might be better ways
 to achieve learning by doing. However, I wanted to point this out for you to consider.
+
+You can find details on the mini assignment we did next in the [third and final part](/2020/03/99/calliope_workshop_part_III.html) of this series of articles.
