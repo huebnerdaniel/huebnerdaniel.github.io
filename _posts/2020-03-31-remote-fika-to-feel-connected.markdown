@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Remote Fika OR how can we feel connected as a team when we work remote"
-date:   2020-03-31 18:04:28 +0100
+date:   2020-03-31 18:44:28 +0100
 categories: remote
 ---
 
